@@ -1,0 +1,9 @@
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\bin\Debug\calculator_update.exe.config
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\bin\Debug\calculator_update.exe
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\bin\Debug\calculator_update.pdb
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\obj\Debug\calculator_update.csprojResolveAssemblyReference.cache
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\obj\Debug\calculator_update.Form1.resources
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\obj\Debug\calculator_update.Properties.Resources.resources
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\obj\Debug\calculator_update.csproj.GenerateResource.Cache
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\obj\Debug\calculator_update.exe
+c:\users\416\documents\visual studio 2012\Projects\calculator_update\calculator_update\obj\Debug\calculator_update.pdb
